@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Boas vindas ao meu perfil👋
+meu nome é Renan tenorio de oliveira 
+- estou estudando na Alura;
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organigação e compartilhamento dos meus projetos desenvolvidos 
 <!--
 **Renan-tenorio/Renan-tenorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
